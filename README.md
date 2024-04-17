@@ -2,6 +2,8 @@
 
 Entrega 2 del bootcamp JS y TS de Lemoncode.
 
+![Captura de pantalla 2024-04-17 a las 11 19 04](https://github.com/Javilone/BootcampJS-entrega03/assets/97972589/d2117c0e-f0cc-4006-aa1d-afd80c9b0039)
+
 ## Enunciado
 
 ### Grupos musicales
