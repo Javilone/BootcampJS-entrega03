@@ -64,7 +64,7 @@ let grupoRolling: GrupoMusical = {
 // The Beatles
 console.log(
   `%cGrupo: ${grupoBeatles.nombreGrupo}`,
-  "font-size: 20px; color: white; background-color: green;"
+  "font-size: 18px; font-weight: bold; color: white; background-color: green;"
 );
 console.log(
   `Año: ${grupoBeatles.añoFundacion}. Activo: ${grupoBeatles.activo}. Género: ${genero.popRock}.`
@@ -73,7 +73,7 @@ console.log(
 // Queen
 console.log(
   `%cGrupo: ${grupoQueen.nombreGrupo}.`,
-  "font-size: 20px; color: white; background-color: green;"
+  "font-size: 18px; font-weight: bold; color: white; background-color: green;"
 );
 console.log(
   `Año: ${grupoQueen.añoFundacion}.Activo: ${grupoQueen.activo}.Género: ${genero.rock}.`
@@ -82,7 +82,7 @@ console.log(
 // AC DC
 console.log(
   `%cGrupo: ${grupoACDC.nombreGrupo}.`,
-  "font-size: 20px; color: white; background-color: green;"
+  "font-size: 18px; font-weight: bold; color: white; background-color: green;"
 );
 console.log(
   `Año: ${grupoACDC.añoFundacion}. Activo: ${grupoACDC.activo}. Género: ${genero.hardRock}.`
@@ -91,7 +91,7 @@ console.log(
 // Beethoven
 console.log(
   `%cGrupo: ${grupoBeethoven.nombreGrupo}.`,
-  "font-size: 20px; color: white; background-color: green;"
+  "font-size: 18px; font-weight: bold; color: white; background-color: green;"
 );
 console.log(
   `Año: ${grupoBeethoven.añoFundacion}. Activo: ${grupoBeethoven.activo}. Género: ${genero.clasica}.`
@@ -100,7 +100,7 @@ console.log(
 // Rolling Stones
 console.log(
   `%cGrupo: ${grupoRolling.nombreGrupo}.`,
-  "font-size: 20px; color: white; background-color: green;"
+  "font-size: 18px; font-weight: bold; color: white; background-color: green;"
 );
 console.log(
   `Año: ${grupoRolling.añoFundacion}. Activo: ${grupoRolling.activo}. Género: ${genero.rock}.`
